@@ -27,7 +27,11 @@
 Контролируем изменения в базе данных
 ![Image of H2 state Source](images/15.PNG)
 
-Таким образом, сервис запущен и работает. Для обращения к нему через другие сервисы выберите и запустите нужный сервис [synchronous-clients](../). 
+Таким образом, сервис запущен и работает. Для обращения к нему через другие сервисы выберите и запустите нужный сервис 
+- Сервис [RestTemplate](resttemplate) использует технологию [RestTemplate](https://spring.io/guides/gs/consuming-rest/)
+- Сервис [OpenFeign](openfeign) использует технологию [OpenFeign](https://cloud.spring.io/spring-cloud-openfeign/reference/html/)
+- Сервис [WebClient](webclient) использует технологию [WebClient](https://spring.io/guides/gs/reactive-rest-service/) в синхронном варианте.
+
 
 
 
