@@ -2,20 +2,20 @@
 
 Этот сервис является частью проекта  [synchronous-clients](../)
 
-Он работает с базой данных H2, размещенной в памяти.\ 
+Он работает с базой данных H2, размещенной в памяти\ 
 После запуска сервиса перейдите в браузере по адресу http://localhost:8080/h2-console. Загрузится интерфейс базы данных H2:
 ![Image of H2 interface Source](images/09.PNG)
 
 Подключитесь и проверьте, что таблица пустая:
 ![Image of H2 empty Source](images/10.PNG)
 
-Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8080/swagger-ui/index.html :
+Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8080/swagger-ui/index.html
 ![Image of Swagger Source](images/11.PNG)
 
-Затем перейдите по ссылке  /v3/api-docs   :
+Затем перейдите по ссылке  /v3/api-docs
 ![Image of API Source](images/12.PNG)
 
-Скопируйте из адресной строки браузера ссылку http://localhost:8080/v3/api-docs\
+Скопируйте из адресной строки браузера ссылку http://localhost:8080/v3/api-docs 
 и импортируйте ее в Postman. Теперь можно выполнять запросы
 ![Image of Postman request Source](images/13.PNG)
 
