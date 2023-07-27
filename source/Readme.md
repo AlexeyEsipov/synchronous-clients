@@ -2,7 +2,8 @@
 
 Этот сервис является частью проекта  [synchronous-clients](../)
 
-Он работает с базой данных H2, размещенной в памяти\ 
+Он работает с базой данных H2, размещенной в памяти
+
 После запуска сервиса перейдите в браузере по адресу http://localhost:8080/h2-console. Загрузится интерфейс базы данных H2:
 ![Image of H2 interface Source](images/09.PNG)
 
@@ -13,6 +14,7 @@
 ![Image of Swagger Source](images/11.PNG)
 
 Затем перейдите по ссылке  /v3/api-docs
+
 ![Image of API Source](images/12.PNG)
 
 Скопируйте из адресной строки браузера ссылку http://localhost:8080/v3/api-docs 
