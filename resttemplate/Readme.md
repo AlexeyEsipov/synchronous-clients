@@ -29,7 +29,7 @@
 
 ![Image of API Source](images/018.PNG)
 
-Скопируйте из адресной строки браузера ссылку http://localhost:8080/v3/api-docs
+Скопируйте из адресной строки браузера ссылку http://localhost:8081/v3/api-docs
 
 и импортируйте ее в Postman. Теперь можно выполнять запросы
 ![Image of Postman request Source](images/019.PNG)
