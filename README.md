@@ -49,9 +49,9 @@
 
 Так же используем и другие сервисы.\
 Более подробно порядок запуска описан в файлах ReadMe в соответствующих сервисах. \
-Сервис [Source](source)\
-Сервис [RestTemplate](resttemplate)\
-Сервис [OpenFeign](openfeign)\
-Сервис [WebClient](webclient)
+- Сервис [Source](source)\
+- Сервис [RestTemplate](resttemplate)\
+- Сервис [OpenFeign](openfeign)\
+- Сервис [WebClient](webclient)
 
 
