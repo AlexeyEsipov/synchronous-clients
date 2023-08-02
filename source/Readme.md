@@ -41,8 +41,8 @@
 ![Image of H2 state Source](images/15.PNG)
 
 Таким образом, сервис запущен и работает. Для обращения к нему через другие сервисы выберите и запустите нужный сервис 
-- Сервис [RestTemplate](../resttemplate)\
-- Сервис [OpenFeign](../openfeign)\
+- Сервис [RestTemplate](../resttemplate)
+- Сервис [OpenFeign](../openfeign)
 - Сервис [WebClient](../webclient)
 
 
