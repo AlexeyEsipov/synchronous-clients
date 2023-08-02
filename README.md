@@ -48,6 +48,10 @@
 ![Image of H2 result Source](images/08.png)
 
 Так же используем и другие сервисы.\
-Более подробно порядок запуска описан в файлах ReadMe в соответствующих сервисах.
+Более подробно порядок запуска описан в файлах ReadMe в соответствующих сервисах. \
+Сервис [Source](source)\
+Сервис [RestTemplate](resttemplate)\
+Сервис [OpenFeign](openfeign)\
+Сервис [WebClient](webclient)\
 
 
