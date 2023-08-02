@@ -20,7 +20,7 @@
 Проверим это\
 ![Image of H2 empty Source](images/016.PNG)
 
-Запустите сервис RestTemplate. Он будет работать на порту 8081.
+Сервис RestTemplate работает на порту 8081.
 
 Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8081/swagger-ui/index.html
 ![Image of Swagger Source](images/017.PNG)
