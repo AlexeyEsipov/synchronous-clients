@@ -52,6 +52,6 @@
 Сервис [Source](source)\
 Сервис [RestTemplate](resttemplate)\
 Сервис [OpenFeign](openfeign)\
-Сервис [WebClient](webclient)\
+Сервис [WebClient](webclient)
 
 
