@@ -23,7 +23,7 @@
 Подключитесь и проверьте, что таблица пустая:
 ![Image of H2 empty Source](images/10.PNG)
 
-Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8080/swagger-ui/index.html
+Для удобства работы к проекту подключен Swagger.\ Перейдите по адресу http://localhost:8080/swagger-ui/index.html
 ![Image of Swagger Source](images/11.PNG)
 
 Затем перейдите по ссылке  /v3/api-docs
