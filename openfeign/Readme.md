@@ -24,19 +24,19 @@
 Сервис OpenFeign работает на порту 8082.
 
 Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8082/swagger-ui/index.html
-![Image of Swagger Source](images/023.PNG)
+![Image of Swagger OpenFeign](images/023.PNG)
 
 Затем перейдите по ссылке  /v3/api-docs
 
-![Image of API Source](images/024.PNG)
+![Image of API OpenFeign](images/024.PNG)
 
 Скопируйте из адресной строки браузера ссылку http://localhost:8082/v3/api-docs
 
 и импортируйте ее в Postman. Теперь можно выполнять запросы
-![Image of Postman request Source](images/025.PNG)
+![Image of Postman request OpenFeign](images/025.PNG)
 
 и получать ответы в Postman
-![Image of Postman response Source](images/026.PNG)
+![Image of Postman response OpenFeign](images/026.PNG)
 
 Контролируем изменения в базе данных
 ![Image of H2 state Source](images/027.PNG)
