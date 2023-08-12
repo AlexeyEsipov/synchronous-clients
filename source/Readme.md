@@ -47,7 +47,5 @@
 - Сервис [OpenFeign](../openfeign)
 - Сервис [WebClient](../webclient)
 
-
-
-
-
+Связаться со мной можно по электронной почте a_esipov_it@list.ru
+или в телеграм @Alex46volokno
