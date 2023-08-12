@@ -42,5 +42,5 @@
 ![Image of H2 state Source](images/027.PNG)
 
 Таким образом, мы связали два сервиса, работающие на разных портах. Для демонстрации работы других сервисов перейдите по ссылкам:
-- Сервис [OpenFeign](../resttemplate)
+- Сервис [RestTemplate](../resttemplate)
 - Сервис [WebClient](../webclient) 
