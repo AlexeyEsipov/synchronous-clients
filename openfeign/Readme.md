@@ -16,12 +16,12 @@
 ```
 ### Описание:
 
-Сервис RestTemplate взаимодействует с сервисом [Source](../source). Сервис Source должен быть запущен.
+Сервис OpenFeign взаимодействует с сервисом [Source](../source). Сервис Source должен быть запущен.
 
 Проверим это\
 ![Image of H2 empty Source](images/022.PNG)
 
-Сервис RestTemplate работает на порту 8082.
+Сервис OpenFeign работает на порту 8082.
 
 Для удобства работы к проекту подключен Swagger. Перейдите по адресу http://localhost:8082/swagger-ui/index.html
 ![Image of Swagger Source](images/023.PNG)
