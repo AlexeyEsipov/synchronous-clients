@@ -48,6 +48,7 @@
 Связаться со мной можно по электронной почте a_esipov_it@list.ru
 или в телеграм  @Alex46volokno
 
+
 <div id="socials" align="center">
     <!-- <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
