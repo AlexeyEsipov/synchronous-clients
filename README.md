@@ -1,4 +1,7 @@
 # synchronous-clients 
+
+![github actions](https://github.com/AlexeyEsipov/synchronous-clients/actions/workflows/maven.yml/badge.svg)
+
 Этот проект написан для демонстрации способов синхронного взаимодействия сервисов в микросервисной архитектуре.
 ## Используемые технологии:
 ![java](https://img.shields.io/badge/Java--17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
